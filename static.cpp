@@ -26,7 +26,7 @@ void Var::disp(void){
 	cout<<"i= "<<i<<endl;
 }
 
-int Var::i=12;
+int Var::i=112;
 
 int main(void)
 {
